@@ -1,0 +1,5 @@
+---
+spring:
+  profiles: verb
+  application:
+    name: lab-4-verb

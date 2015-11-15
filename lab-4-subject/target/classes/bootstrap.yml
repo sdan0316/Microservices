@@ -1,0 +1,5 @@
+---
+spring:
+  profiles: subject
+  application:
+    name: lab-4-subject
